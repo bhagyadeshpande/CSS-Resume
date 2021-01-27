@@ -1,0 +1,166 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+#main {
+  border: 3px solid burlywood;
+  outline: 1px solid #e36834;
+  height: 1270px;
+  width: 80%;
+  margin-left: 130px;
+}
+#left {
+  border-right: 1px solid grey;
+  width: 50%;
+  height: 66%;
+}
+#topdiv {
+  background-color: #e4d8dd;
+  height: 355px;
+  margin: 30px;
+  border-bottom: 2px solid #657483;
+}
+#firstblock {
+  background-color: #4b555f;
+  height: 240px;
+}
+#mypic {
+  margin: 40px;
+  margin-left: 430px;
+  border: 7px dotted rgb(211, 192, 23);
+  border-radius: 50%;
+}
+#secondblock {
+  background-color: #4b555f;
+  height: 35px;
+  margin-top: 35px;
+}
+#address {
+  font-size: 18px;
+  text-align: center;
+}
+#name {
+  background-color: #e36834;
+  height: 80px;
+  width: 420px;
+  margin-left: 315px;
+  margin-top: -152px;
+  position: absolute;
+  border-radius: 10px;
+  font-weight: bold;
+  text-align: center;
+}
+#nametext {
+  font-size: 28px;
+  line-height: 80px;
+  padding-top: 15px;
+}
+#icon1 {
+  color: rgb(226, 36, 169);
+  margin-left: 100px;
+  border: 2px dotted rgb(4, 126, 14);
+  border-radius: 50%;
+}
+#icon2 {
+  color: rgb(226, 36, 169);
+  margin-left: 100px;
+  border: 2px solid rgb(226, 36, 169);
+  border-radius: 50%;
+  position: relative;
+  top: -50px;
+}
+.heading {
+  color: rgba(0, 0, 255, 0.767);
+}
+#profile {
+  position: relative;
+  left: 148px;
+  top: -54px;
+}
+.profilepara {
+  width: 370px;
+  text-align: justify;
+}
+#subheading {
+  position: relative;
+  top: -112px;
+  left: 225px;
+}
+#profileid {
+  position: relative;
+  top: -58px;
+  left: 90px;
+}
+#skill {
+  position: relative;
+  top: -101px;
+  left: 145px;
+}
+.slide {
+  position: absolute;
+  left: 240px;
+  width: 30%;
+  opacity: 0.6;
+}
+#icon3 {
+  color: rgb(226, 36, 169);
+  margin-left: 100px;
+  border: 2px solid rgb(226, 36, 169);
+  border-radius: 50%;
+  position: relative;
+  top: -77px;
+}
+#experience1 {
+  position: relative;
+  top: -135px;
+  left: 106px;
+}
+#worklist {
+  list-style-type: disc;
+  position: relative;
+  top: -150px;
+  left: 100px;
+  width: 300px;
+  text-align: justify;
+}
+#icon4 {
+  color: rgb(226, 36, 169);
+  margin-left: 100px;
+  border: 2px solid rgb(226, 36, 169);
+  border-radius: 50%;
+  position: absolute;
+  top: 708px;
+  left: 633px;
+}
+
+#icon5 {
+  color: rgb(226, 36, 169);
+  margin-left: 100px;
+  border: 2px solid rgb(226, 36, 169);
+  border-radius: 50%;
+  position: relative;
+  top: -625px;
+  left: 497px;
+}
+#traininglist {
+  position: relative;
+  top: -678px;
+  left: 588px;
+  width: 350px;
+  text-align: justify;
+}
+#icon6 {
+  color: rgb(226, 36, 169);
+  margin-left: 100px;
+  border: 2px solid rgb(226, 36, 169);
+  border-radius: 50%;
+  position: relative;
+  top: -662px;
+  left: 497px;
+}
+#language {
+  position: relative;
+  top: -712px;
+  left: 600px;
+  width: 350px;
+  text-align: justify;
+}
